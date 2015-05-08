@@ -310,4 +310,6 @@
     <!-- Doze: force using accelerometer as pick up sensor -->
     <bool name="config_dozeUseAccelerometer">true</bool>
 
+    <!-- HW Keys Overlay -->
+    <bool name="config_hwKeysPref">true</bool>
 </resources>
